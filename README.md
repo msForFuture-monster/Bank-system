@@ -13,5 +13,10 @@ if the user in the system then go to next step and show main menu :
 [8] Login Register
 [9] Currence exchange
 [10] Logut 
-then the user has the abillity to choose any of them 
+then the user has the abillity to choose any of it 
+from [1] to [5] those screens about client ,but transaction screen show sub menu 
+in this menu you can withdraw or diposet , show list of balance 
+login register screen show to you the user has been login befor 
+currence exchange screen it`s show ot you the deffernt counter poundes lik dollar and egyption pound ets
+and you can change from one to another 
 
